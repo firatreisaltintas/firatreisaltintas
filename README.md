@@ -25,15 +25,16 @@ This GitHub profile serves as my personal progress journal — tracking my learn
 
 ## 📚 Certification Roadmap
 
-🛡️ [ ] **CompTIA Security+**
-🛡️ [ ] **TryHackMe - Security Analyst Learning Path (SAL1)**
-🛡️ [ ] **Blue Team Level 1 (BTL1)**
-🛡️ [ ] **EC-Council Certified SOC Analyst (CSA)**
-🛡️ [ ] **Google Cybersecurity Professional Certificate**
-🛡️ [ ] **Microsoft SC-200: Security Operations Analyst Associate**
-🛡️ [ ] **CompTIA CySA+**
+🛡️ [ ] **CompTIA Security+**  
+🛡️ [ ] **TryHackMe - Security Analyst Learning Path (SAL1)**  
+🛡️ [ ] **Blue Team Level 1 (BTL1)**  
+🛡️ [ ] **EC-Council Certified SOC Analyst (CSA)**  
+🛡️ [ ] **Google Cybersecurity Professional Certificate**  
+🛡️ [ ] **Microsoft SC-200: Security Operations Analyst Associate**  
+🛡️ [ ] **CompTIA CySA+**  
 
 (✔️ I'll check them off as I complete them!)
+
 
 ---
 
