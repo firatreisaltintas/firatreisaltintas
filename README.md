@@ -7,6 +7,13 @@
 </p>
 
 ---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firatreisaltintas&show_icons=true&theme=tokyonight" alt="Fırat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatreisaltintas&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+---
 
 ## 👋 About Me
 
@@ -61,15 +68,6 @@ This GitHub profile serves as my personal progress journal — tracking my learn
 🔵 Participate in real-world case studies (e.g., Blue Team Labs Online)  
 🧑‍💻 Land an internship or entry-level SOC Analyst role  
 🏡 Build a "Home Lab" environment (pfSense, Security Onion, ELK Stack)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firatreisaltintas&show_icons=true&theme=tokyonight" alt="Fırat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatreisaltintas&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
