@@ -1,16 +1,9 @@
-<h2 align="center">Hi there 👋, I'm Fırat Reis Altıntaş</h2>
+<h1 align="center">Hi there 👋, I'm Fırat Reis Altıntaş</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity%20Learner-0078D4?style=for-the-badge&logo=cyber&logoColor=white" alt="Cybersecurity Learner Badge"/>
   <img src="https://img.shields.io/badge/Future%20SOC%20Analyst-2E8B57?style=for-the-badge&logo=security&logoColor=white" alt="Future SOC Analyst Badge"/>
   <img src="https://img.shields.io/badge/TryHackMe%20Student-9B59B6?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Student Badge"/>
-</p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firatreisaltintas&show_icons=true&theme=tokyonight" alt="Fırat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatreisaltintas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -68,6 +61,15 @@ This GitHub profile serves as my personal progress journal — tracking my learn
 🔵 Participate in real-world case studies (e.g., Blue Team Labs Online)  
 🧑‍💻 Land an internship or entry-level SOC Analyst role  
 🏡 Build a "Home Lab" environment (pfSense, Security Onion, ELK Stack)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firatreisaltintas&show_icons=true&theme=tokyonight" alt="Fırat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatreisaltintas&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
