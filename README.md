@@ -1,61 +1,71 @@
-<h1 align="center">Hi there 👋, I'm Fırat Reis Altıntaş</h1>
+<h2 align="center">Hi there 👋, I'm Fırat Reis Altıntaş</h2>
 
 <p align="center">
-  🚀 Aspiring <strong>SOC Analyst</strong> | Cybersecurity Enthusiast<br/>
-  📖 Progressing every day, one step closer to my dream!
+  <img src="https://img.shields.io/badge/Cybersecurity%20Learner-0078D4?style=for-the-badge&logo=cyber&logoColor=white" alt="Cybersecurity Learner Badge"/>
+  <img src="https://img.shields.io/badge/Future%20SOC%20Analyst-2E8B57?style=for-the-badge&logo=security&logoColor=white" alt="Future SOC Analyst Badge"/>
+  <img src="https://img.shields.io/badge/TryHackMe%20Student-9B59B6?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Student Badge"/>
 </p>
+
+---
+
+## 👋 About Me
+
+Hi there! I'm **Fırat Reis Altıntaş**, an aspiring **SOC Analyst** at the beginning of my cybersecurity journey. I'm currently focused on building a strong foundation in networking, system administration, and security operations.
+
+This GitHub profile serves as my personal progress journal — tracking my learning, certifications, and future goals. 🚀
 
 ---
 
 ## 🌟 Career Goal
 
-- 🎯 Become a professional **SOC Analyst**, eventually advancing into a **SOC+ (Advanced)** role.
-- 🔍 Develop expertise in Security Monitoring, Incident Response, and Threat Detection.
+🎯 Become a skilled **SOC Analyst** and grow into a **SOC+ (Advanced)** role.  
+🔍 Continuously develop technical skills in security monitoring, incident response, and threat detection.
 
 ---
 
 ## 📚 Certification Roadmap
 
-- 🛡️ [ ] **CompTIA Security+**
-- 🛡️ [ ] **Google Cybersecurity Professional Certificate**
-- 🛡️ [ ] **TryHackMe - Security Analyst Learning Path (SAL1)**
-- 🛡️ [ ] **Blue Team Level 1 (BTL1)**
-- 🛡️ [ ] **Microsoft SC-200: Security Operations Analyst Associate**
-- 🛡️ [ ] **EC-Council Certified SOC Analyst (CSA)**
-- 🛡️ [ ] **CompTIA CySA+** *(long-term goal)*
+🛡️ [ ] **CompTIA Security+**  
+🛡️ [ ] **Google Cybersecurity Professional Certificate**  
+🛡️ [ ] **TryHackMe - Security Analyst Learning Path (SAL1)** *(Hands-on cybersecurity fundamentals)*  
+🛡️ [ ] **Blue Team Level 1 (BTL1)**  
+🛡️ [ ] **Microsoft SC-200: Security Operations Analyst Associate**  
+🛡️ [ ] **EC-Council Certified SOC Analyst (CSA)**  
+🛡️ [ ] **CompTIA CySA+** *(long-term goal)*
 
-*(✔️ I will check them off as I complete them!)*
+(✔️ I'll check them off as I complete them!)
 
 ---
 
 ## 🔧 Skills I'm Building
 
-- 💻 Networking Fundamentals (TCP/IP, UDP, DNS)
-- 🖥️ Windows & Linux Basics
-- 📜 Log Analysis & Incident Investigation
-- 🛠️ Basic SIEM Usage (Splunk, Elastic SIEM)
-- 🧠 Threat Intelligence Fundamentals
-- 📝 Investigating & Reporting Security Alerts
+💻 Networking Fundamentals (TCP/IP, UDP, DNS, etc.)  
+🖥️ Windows and Linux Basics  
+📜 Log Analysis and Incident Investigation  
+🛠️ Basic SIEM Usage (Splunk, Elastic SIEM)  
+🧠 Threat Intelligence Fundamentals  
+📝 Investigating and Reporting Security Alerts
 
 ---
 
 ## 🧐 Current Focus
 
-- 🏗️ Completing "SOC Level 1" path on **TryHackMe**
-- 🛠️ Practicing daily labs (Networking, Windows Event Logs)
-- 🔍 Learning basic threat hunting and SIEM operations
+🏗️ Completing "SOC Level 1" learning path on TryHackMe  
+🛠️ Daily hands-on labs (Networking, Windows Logs, etc.)  
+🔍 Getting comfortable with SIEM tools and basic threat detection
 
 ---
 
 ## 📊 Future Plans
 
-- 🔵 Work on real-world blue team case studies (e.g., Blue Team Labs Online)
-- 👨‍💻 Land an entry-level **SOC Analyst** internship or job
-- 🏡 Build a home cybersecurity lab (pfSense, Security Onion, ELK Stack)
+🔵 Participate in real-world case studies (e.g., Blue Team Labs Online)  
+🧑‍💻 Land an internship or entry-level SOC Analyst role  
+🏡 Build a "Home Lab" environment (pfSense, Security Onion, ELK Stack)
 
 ---
 
-> 🧠 **"Every expert was once a beginner. Progress, not perfection."**
+> "Every expert was once a beginner. Progress, not perfection." 🌱
+
+This profile will be my **growth journal**!
 
 ---
-
