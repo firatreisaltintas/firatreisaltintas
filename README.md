@@ -6,6 +6,13 @@
   <img src="https://img.shields.io/badge/TryHackMe%20Student-9B59B6?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Student Badge"/>
 </p>
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firatreisaltintas&show_icons=true&theme=tokyonight" alt="Fırat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatreisaltintas&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 ---
 
 ## 👋 About Me
