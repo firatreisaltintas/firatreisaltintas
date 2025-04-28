@@ -8,6 +8,14 @@
 
 ---
 
+## 📈 TryHackMe Stats
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/firatraltintas.svg" alt="TryHackMe">
+</p>
+
+---
+
 ## 👋 About Me
 
 Hi there! I'm **Fırat Reis Altıntaş**, an aspiring **SOC Analyst** at the beginning of my cybersecurity journey. I'm currently focused on building a strong foundation in networking, system administration, and security operations.
