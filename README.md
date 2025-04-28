@@ -5,7 +5,7 @@
     </a>
 </p>
 
-<p align="left">
+<p align="center">
     <img src="https://img.shields.io/badge/Cybersecurity%20Learner-0078D4?style=for-the-badge&logo=cyber&logoColor=white" alt="Cybersecurity Learner Badge"/>
     <img src="https://img.shields.io/badge/Future%20SOC%20Analyst-2E8B57?style=for-the-badge&logo=security&logoColor=white" alt="Future SOC Analyst Badge"/>
     <img src="https://img.shields.io/badge/TryHackMe%20Student-9B59B6?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Student Badge"/>
