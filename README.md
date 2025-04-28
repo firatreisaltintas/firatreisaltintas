@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Fırat Reis Altıntaş</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Fırat+Reis+Altıntaş)](https://git.io/typing-svg)<h1 align="center">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity%20Learner-0078D4?style=for-the-badge&logo=cyber&logoColor=white" alt="Cybersecurity Learner Badge"/>
