@@ -1,14 +1,20 @@
 ---
-  <p align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F791D4&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+F%C4%B1rat+Reis+Alt%C4%B1nta%C5%9F" alt="Typing SVG" /></a>
-  </p>
-  <p align="right">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/firatraltintas.png" alt="Your Image Badge" />
-<p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity%20Learner-0078D4?style=for-the-badge&logo=cyber&logoColor=white" alt="Cybersecurity Learner Badge"/>
-  <img src="https://img.shields.io/badge/Future%20SOC%20Analyst-2E8B57?style=for-the-badge&logo=security&logoColor=white" alt="Future SOC Analyst Badge"/>
-  <img src="https://img.shields.io/badge/TryHackMe%20Student-9B59B6?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Student Badge"/>
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F791D4&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+F%C4%B1rat+Reis+Alt%C4%B1nta%C5%9F" alt="Typing SVG" />
+    </a>
 </p>
+
+<p align="left">
+    <img src="https://img.shields.io/badge/Cybersecurity%20Learner-0078D4?style=for-the-badge&logo=cyber&logoColor=white" alt="Cybersecurity Learner Badge"/>
+    <img src="https://img.shields.io/badge/Future%20SOC%20Analyst-2E8B57?style=for-the-badge&logo=security&logoColor=white" alt="Future SOC Analyst Badge"/>
+    <img src="https://img.shields.io/badge/TryHackMe%20Student-9B59B6?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Student Badge"/>
+</p>
+
+<p align="right">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/firatraltintas.png" alt="Your Image Badge" />
+</p>
+
 
 ---
 
