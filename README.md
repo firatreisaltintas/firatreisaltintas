@@ -10,10 +10,7 @@
 
 ## 📈 TryHackMe Stats
 
-<p align="center">
-  <img src="https://tryhackme-stats.vercel.app/api/?username=firatraltintas" alt="TryHackMe Stats" />
-</p>
-
+![tryhackme stats](https://raw.githubusercontent.com/firatreisaltintas/firatreisaltintas/master/assets/thm_propic.png)
 
 ---
 
