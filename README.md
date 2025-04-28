@@ -10,7 +10,9 @@
 
 ## 📈 TryHackMe Stats
 
-![tryhackme stats](https://raw.githubusercontent.com/firatreisaltintas/firatreisaltintas/master/assets/thm_propic.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/firatreisaltintas/firatreisaltintas/master/assets/thm_propic.png" alt="TryHackMe Stats" />
+</p>
 
 ---
 
