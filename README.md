@@ -11,8 +11,9 @@
 ## 📈 TryHackMe Stats
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/firatraltintas.svg" alt="TryHackMe">
+  <img src="https://tryhackme-stats.vercel.app/api/?username=firatraltintas" alt="TryHackMe Stats" />
 </p>
+
 
 ---
 
