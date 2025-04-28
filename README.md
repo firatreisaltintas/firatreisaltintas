@@ -5,11 +5,16 @@
     </a>
 </p>
 
-<p align="left">
+<p align="left" style="position: relative;">
     <img src="https://img.shields.io/badge/Cybersecurity%20Learner-0078D4?style=for-the-badge&logo=cyber&logoColor=white" alt="Cybersecurity Learner Badge"/>
     <img src="https://img.shields.io/badge/Future%20SOC%20Analyst-2E8B57?style=for-the-badge&logo=security&logoColor=white" alt="Future SOC Analyst Badge"/>
     <img src="https://img.shields.io/badge/TryHackMe%20Student-9B59B6?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Student Badge"/>
 </p>
+
+<p align="right" style="position: absolute; top: 0; right: 0; padding: 10px;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/firatraltintas.png" alt="Your Image Badge" />
+</p>
+
 
 <p align="right">
     <img src="https://tryhackme-badges.s3.amazonaws.com/firatraltintas.png" alt="Your Image Badge" />
