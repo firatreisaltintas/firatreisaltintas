@@ -9,7 +9,10 @@
 ---
 
 ## 📈 TryHackMe Stats
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4647161" alt="Your Image Badge" />
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/firatraltintas.png" alt="Your Image Badge" />
+</p>
 
 --- 
 
