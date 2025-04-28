@@ -11,7 +11,7 @@
 ## 📈 TryHackMe Stats
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/firatraltintas.png" alt="Your Image Badge" />
+  <script src="https://tryhackme.com/badge/4647161"></script> 
 </p>
 
 --- 
