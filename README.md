@@ -10,9 +10,7 @@
 
 ## 📈 TryHackMe Stats
 
-<a href="https://tryhackme.com/p/firatraltintas">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/firatraltintas.png?cachebuster=2" alt="THM Badge" style="width: 215px; height: auto;"/>
-</a>
+![TryHackMe Rozeti](https://tryhackme-badges.s3.amazonaws.com/firatraltintas.png)
 
 ---
 
