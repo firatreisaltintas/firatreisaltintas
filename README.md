@@ -10,13 +10,6 @@
     <img src="https://img.shields.io/badge/Future%20SOC%20Analyst-2E8B57?style=for-the-badge&logo=security&logoColor=white" alt="Future SOC Analyst Badge"/>
 </p>
 
-<p align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/firatraltintas.png" alt="Your Image Badge" />
-</p>
-
-
-
-
 ---
 
 ## 👋 About Me
